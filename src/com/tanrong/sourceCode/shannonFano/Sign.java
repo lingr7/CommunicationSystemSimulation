@@ -21,6 +21,7 @@ public class Sign implements Comparable{
         this.times=times;
         this.value="";
     }
+
     public String GetSign(){
         return sign;
     }
