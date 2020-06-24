@@ -19,34 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7bdffc6-43ee-40d1-b3de-84bc7fa0ed36" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_all_1_10_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_core_2_0_111_beta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mockito-all-1.10.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mockito-core-2.0.111-beta.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/Hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/Hamming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/ThreeTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/ThreeTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/sourceCode/shannonFano/ShannonFano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tanrong/sourceCode/shannonFano/ShannonFano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/BSCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/ChannelCodeUtilTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/IPersonDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/NewTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/PersonService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/PersonServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/SourceCodeUtilTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/TestHamming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/TestNocode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/mockTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/通信系统仿真.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="c7bdffc6-43ee-40d1-b3de-84bc7fa0ed36" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
