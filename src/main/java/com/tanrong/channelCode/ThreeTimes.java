@@ -14,7 +14,7 @@ public class ThreeTimes {
      * @return
      */
     public static int[] encode(int[] data){
-        List<Integer> list=new ArrayList<>();
+        List<Integer> list=new ArrayList<Integer>();
         for (int i = 0; i < data.length; i++) {
             list.add(data[i]);
             list.add(data[i]);

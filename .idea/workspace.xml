@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c7bdffc6-43ee-40d1-b3de-84bc7fa0ed36" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_core_2_0_111_beta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_all_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_core_2_0_111_beta.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tanrong/sourceCode/shannonFano/Sign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tanrong/sourceCode/shannonFano/Sign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/通信系统仿真.iml" beforeDir="false" afterPath="$PROJECT_DIR$/通信系统仿真.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mockito-all-1.10.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mockito-core-2.0.111-beta.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/Hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/Hamming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/ThreeTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tanrong/channelCode/ThreeTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/sourceCode/shannonFano/ShannonFano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tanrong/sourceCode/shannonFano/ShannonFano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/AllTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/BSCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/ChannelCodeUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/IPersonDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/NewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/PersonServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/SourceCodeUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/TestHamming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/TestNocode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tanrong/test/mockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/通信系统仿真.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +75,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/programe/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -53,7 +102,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -64,12 +116,12 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.4487917" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -176,13 +228,13 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration name="Something" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tanrong.test.Something" />
-      <module name="通信系统仿真" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tanrong.Main" />
+      <module name="mock" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tanrong.test.*" />
+          <option name="PATTERN" value="com.tanrong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,7 +249,7 @@
       </method>
     </configuration>
     <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="通信系统仿真" />
+      <module name="mock" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tanrong.test.*" />
@@ -214,7 +266,7 @@
       </method>
     </configuration>
     <configuration name="NewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="通信系统仿真" />
+      <module name="mock" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tanrong.test.*" />
@@ -231,7 +283,7 @@
       </method>
     </configuration>
     <configuration name="PersonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="通信系统仿真" />
+      <module name="mock" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tanrong.test.*" />
@@ -256,7 +308,7 @@
       </method>
     </configuration>
     <configuration name="mockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="通信系统仿真" />
+      <module name="mock" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tanrong.test.*" />
@@ -325,7 +377,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Something" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.AllTests" />
       <item itemvalue="JUnit.PersonServiceTest" />
       <item itemvalue="JUnit.mockTest" />
@@ -334,10 +386,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.AllTests" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.mockTest" />
         <item itemvalue="JUnit.NewTest" />
         <item itemvalue="JUnit.PersonServiceTest" />
-        <item itemvalue="Application.Something" />
       </list>
     </recent_temporary>
   </component>
@@ -354,45 +406,86 @@
       <workItem from="1592780931990" duration="419000" />
       <workItem from="1592782131908" duration="28982000" />
       <workItem from="1592867339616" duration="4664000" />
+      <workItem from="1592913437509" duration="843000" />
+      <workItem from="1592914306041" duration="373000" />
+      <workItem from="1592916132584" duration="1424000" />
+      <workItem from="1592917577944" duration="120000" />
+      <workItem from="1592964313060" duration="72000" />
+      <workItem from="1592965199543" duration="550000" />
+      <workItem from="1592965952453" duration="2578000" />
+      <workItem from="1592979851953" duration="6305000" />
+      <workItem from="1592987272459" duration="4917000" />
+      <workItem from="1592996781019" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1592985958520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592985958520" />
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1592967496434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592967496434" />
     <state x="426" y="216" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592798206656">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="426" y="216" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1592798206656" />
-    <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1592813758591">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="502" y="150" key="FileChooserDialogImpl" timestamp="1592996627780">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="357" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592813758591" />
-    <state width="1323" height="229" key="GridCell.Tab.0.bottom" timestamp="1592872693575">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="502" y="150" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592996627780" />
+    <state width="1877" height="576" key="GridCell.Tab.0.bottom" timestamp="1592994269354">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="229" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592872693575" />
-    <state width="1323" height="229" key="GridCell.Tab.0.center" timestamp="1592872693574">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="576" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592994269354" />
+    <state width="1877" height="576" key="GridCell.Tab.0.center" timestamp="1592994269354">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="229" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592872693574" />
-    <state width="1323" height="229" key="GridCell.Tab.0.left" timestamp="1592872693574">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="576" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592994269354" />
+    <state width="1877" height="576" key="GridCell.Tab.0.left" timestamp="1592994269354">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="229" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592872693574" />
-    <state width="1323" height="229" key="GridCell.Tab.0.right" timestamp="1592872693575">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="576" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592994269354" />
+    <state width="1877" height="576" key="GridCell.Tab.0.right" timestamp="1592994269354">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="229" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592872693575" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1592797612082">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="576" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592994269354" />
+    <state x="229" y="228" width="1039" height="708" key="SettingsEditor" timestamp="1592996629268">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592797612082" />
-    <state x="381" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592796102291">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="229" y="228" width="1039" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592996629268" />
+    <state x="658" y="341" width="603" height="216" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592987100153">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="381" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1592796102291" />
+    <state x="658" y="341" width="603" height="216" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1592987100153" />
+    <state x="334" y="130" key="new project wizard" timestamp="1592917230758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592917230758" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592817531392">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

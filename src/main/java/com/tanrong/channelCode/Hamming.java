@@ -100,7 +100,7 @@ public class Hamming {
         }
 
         power = parity_count-1;
-        ArrayList<Integer> list=new ArrayList<>();
+        ArrayList<Integer> list=new ArrayList<Integer>();
         for(int i=a.length ; i > 0 ; i--) {
             if(Math.pow(2, power) != i) {
                 list.add(a[i-1]);

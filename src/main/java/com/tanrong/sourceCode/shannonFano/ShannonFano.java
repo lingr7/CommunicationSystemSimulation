@@ -114,7 +114,7 @@ public class ShannonFano {
      * @param sourceLength
      */
     public static void getInfo(ArrayList<Sign> signs,int sourceLength) {
-        Map<String,String> result=new HashMap<>();
+        Map<String,String> result=new HashMap<String,String>();
         double entropy=0,length=0;
         //计算熵
         for(int i=0;i<signs.size();i++){
