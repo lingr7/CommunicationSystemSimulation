@@ -1,4 +1,4 @@
-package com.tanrong.test;
+
 //import com.tanrong.channelCode.ChannelCodeUtil;
 import com.tanrong.sourceCode.shannonFano.Sign;
 import org.junit.Test;

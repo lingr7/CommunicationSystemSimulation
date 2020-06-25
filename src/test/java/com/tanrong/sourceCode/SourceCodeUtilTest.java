@@ -1,10 +1,12 @@
-package com.tanrong.test;
-
+package com.tanrong.sourceCode;
 import com.tanrong.channelCode.ChannelCodeUtil;
-import com.tanrong.sourceCode.SourceCodeUtil;
+import com.tanrong.channelCode.ChannelCodeUtilTest;
 import com.tanrong.sourceCode.huffman.HuffmanUtil;
 import com.tanrong.sourceCode.shannonFano.ShannonFano;
 import com.tanrong.sourceCode.shannonFano.Sign;
+
+import com.tanrong.sourceCode.SourceCodeUtil;
+
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -12,9 +14,6 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by tanrong.ltr on 16/6/19.
- */
 public class SourceCodeUtilTest {
     @Test
     public void encode() throws Exception {
@@ -88,4 +87,5 @@ public class SourceCodeUtilTest {
         ChannelCodeUtilTest.println("sourceDecodeResult",sourceDecodeResult);
         ChannelCodeUtilTest.println("original",original);
     }
+
 }
